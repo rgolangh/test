@@ -18,4 +18,12 @@ Ascidoc tess
 
 include some file content
 
+
+
+fix!
+
+
+
+
+
 include::partial.adoc[]
