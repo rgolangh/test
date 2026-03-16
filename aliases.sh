@@ -28,3 +28,6 @@ alias diff='diff --color'
 alias journal='nvim "/home/rgolan/obsidian/kasten/6-Main Notes/journal.md"'
 alias bw="flatpak run --command=bw com.bitwarden.desktop"
 alias eco-engineering-cluster-board='jira issue list -p ECOPROJECT -q "labels in (eco-engineering-cluster)"'
+alias jira-from-git='~/src/kubev2v/mtv-releng/scripts/jira-from-git.sh'
+alias triage='~/src/kubev2v/forklift/cmd/vsphere-xcopy-volume-populator/.project/triage-offload-backlog.sh'
+alias create-offload-ticket='~/src/kubev2v/forklift/cmd/vsphere-xcopy-volume-populator/.project/create-offload-ticket.sh'
